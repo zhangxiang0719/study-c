@@ -7,7 +7,6 @@
 * [在线 C 语言开发环境](https://www.onlinegdb.com/online_c_compiler)
 * [在线流程图制作](https://yuml.me/diagram/scruffy/activity/draw)
 * [在线评测系统，包括源码，支持 C ，C++ ，Python ， java ](https://docs.onlinejudge.me/)
-* [evyj](https://pan.baidu.com/s/1qe8rZFnholOomHTrJD0suw)
 
 ---
 
